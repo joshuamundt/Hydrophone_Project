@@ -32,16 +32,28 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 ### Introduction
 
 ![](proj4image/NRNW_OS.png)
-      Figure 1:
+            Figure 1: 𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Shelf in July 06, 2019
       
 ![](proj4image/WNR_OS.png)
-![](proj4image/RNW_OS.png)
-![](proj4image/RW_OS.png)
-![](proj4image/NRNW_OF.png)
-![](proj4image/WNR_OF.png)
-![](proj4image/RNW_OF.png)
-![](proj4image/RW_OF.png)
+            Figure 2: 𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Shelf in April 06, 2019
 
+![](proj4image/RNW_OS.png)
+            Figure 3:𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Shelf in March 06, 2019
+
+![](proj4image/RW_OS.png)
+            Figure 4:𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Shelf in March 01, 2019
+
+![](proj4image/NRNW_OF.png)
+            Figure 5:𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Offshore in Nov 16, 2018
+
+![](proj4image/WNR_OF.png)
+            Figure 6:𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Offshore in Feb 27, 2019
+
+![](proj4image/RNW_OF.png)
+            Figure 7:𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Offshore in Sep 01, 2018
+
+![](proj4image/RW_OF.png)
+            Figure 8:𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Offshore in Feb 10, 2019
 
 ![](proj4image/AH.png)
 
