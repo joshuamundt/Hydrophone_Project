@@ -112,7 +112,7 @@ The instruments at Oregon Shelf is closer to the shore and shallower compare to 
 4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
 
 #### Marnie Mammals
-According to Geoxpro, the hearing bandwidth for baleen whales is believed to range from 5 Hz to above 20 kHz [2].
+In figure 9, a marine mammal vocalizaion frequency is found in a small time window, and the bandwidth range from 800Hz to 5000Hz. One can claim that it comes from baleen whales becasue according to Geoxpro, the hearing bandwidth for baleen whales is believed to range from 5 Hz to above 20 kHz [2]. It is consitant with the bandwidth in the Wenz Curve shown in figure 12.
 
 #### Airgun
 
