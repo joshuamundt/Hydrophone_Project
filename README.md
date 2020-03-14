@@ -73,9 +73,13 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 
 a) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
 
+
+
 b) Which one has the highest impact? Rain or wind? 
 
+
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
+
 
 ### Part 2 solutions ) Airgun, Marine Mammals, Earthquake Noise
 
