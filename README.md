@@ -16,10 +16,8 @@ This project asks students to obtain raw data from OOI broadband hydrophone webs
 2. Compare the spectral levels and answer these questions: 
 
 a) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
-In the Oregon Shelf site, it is evident that the spectral level is higher in figure 4, when there is rain and wind at lower and higher frequency compare to figure 1, during the period of no wind and no rain or during the period of only rain or only wind, as show in figure 3 and 2.
 
 b) Which one has the highest impact? Rain or wind? 
-The rain has the highest impact when looking at both Oregon Offshore and Oregon Shelf sites. The power spectral density level starts from bout 80, as shown in figure 6 and the 𝑃𝑆𝐷𝑑𝐵 decreases at a faster rate as the frequency increases, whereas during the period where there is only rain, as show in figure 7, the initial power spectral density level is similar at lower frequency but when the frequency increase, it doesn’t decrease as fast
 
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
 attenuation loss
@@ -75,9 +73,11 @@ attenuation loss
 
 a) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
 
-
+In the Oregon Shelf site, it is evident that the spectral level is higher in figure 4, when there is rain and wind at lower and higher frequency compare to figure 1, during the period of no wind and no rain or during the period of only rain or only wind, as show in figure 3 and 2.
 
 b) Which one has the highest impact? Rain or wind? 
+
+The rain has the highest impact when looking at both Oregon Offshore and Oregon Shelf sites. The power spectral density level starts from bout 80, as shown in figure 6 and the 𝑃𝑆𝐷𝑑𝐵 decreases at a faster rate as the frequency increases, whereas during the period where there is only rain, as show in figure 7, the initial power spectral density level is similar at lower frequency but when the frequency increase, it doesn’t decrease as fast
 
 
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
