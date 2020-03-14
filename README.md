@@ -111,6 +111,12 @@ The instruments at Oregon Shelf is closer to the shore and shallower compare to 
 
 4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve?
 
+#### Marnie Mammals
+According to Geoxpro, the hearing bandwidth for baleen whales is believed to range from 5 Hz to above 20 kHz [2].
+
+#### Airgun
+
+#### Eathquake
 
 
 
@@ -119,6 +125,6 @@ The instruments at Oregon Shelf is closer to the shore and shallower compare to 
 
 [1] https://dosits.org/science/sounds-in-the-sea/what-are-common-underwater-sounds/
 
-[2]
+[2]https://www.geoexpro.com/articles/2010/06/marine-seismic-sources-part-v-the-hearing-of-marine-mammals
 
 
