@@ -31,7 +31,8 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 
 ### Introduction
 
-![](proj4image/NRNW_OS.png)
+![](proj4image/NRNW_OS.png
+      Figure 1:
 ![](proj4image/WNR_OS.png)
 ![](proj4image/RNW_OS.png)
 ![](proj4image/RW_OS.png)
