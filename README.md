@@ -4,15 +4,15 @@
 
 
 ## Project Statement 
-1.In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency.
+1. In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency.
 
-2.Compare the spectral levels and answer these questions: 
+2. Compare the spectral levels and answer these questions: 
 
-•	What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
+•	   What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
 
-•	Which one has the highest impact? Rain or wind? 
+•	  Which one has the highest impact? Rain or wind? 
 
-•	What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
+•	  What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
 
 
 
