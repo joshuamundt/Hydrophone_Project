@@ -4,6 +4,9 @@
 
 
 ## Project Statement 
+
+### Part 1) Wind and Rain Noise
+
 1. In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency.
 
 2. Compare the spectral levels and answer these questions: 
@@ -15,8 +18,6 @@ b) Which one has the highest impact? Rain or wind?
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
 
 
-
-### Part 1) Wind and Rain Noise
 
 ### Part 2) Airgun, Marine Mammals, Earthquake Noise
 
