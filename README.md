@@ -9,7 +9,7 @@ This project asks students to obtain raw data from OOI broadband hydrophone webs
 
 ### Project Statement 
 
-### Part 1) Wind and Rain Noise
+#### Part 1) Wind and Rain Noise
 
 1. In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency.
 
@@ -33,7 +33,7 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 
 4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve (refer to the Ocean Noise slides)?
 
-### Part 1 solutions ) Wind and Rain Noise
+#### Part 1 solutions ) Wind and Rain Noise
 
 1. In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency.
 
@@ -77,7 +77,7 @@ b) Which one has the highest impact? Rain or wind?
 
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
 
-### Part 2 solutions ) Airgun, Marine Mammals, Earthquake Noise
+#### Part 2 solutions ) Airgun, Marine Mammals, Earthquake Noise
 
 1.	A short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram
 
