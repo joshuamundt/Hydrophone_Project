@@ -77,11 +77,12 @@ In the Oregon Shelf site, it is evident that the spectral level is higher in fig
 
 b) Which one has the highest impact? Rain or wind? 
 
-The rain has the highest impact when looking at both Oregon Offshore and Oregon Shelf sites. The power spectral density level starts from bout 80, as shown in figure 6 and the 𝑃𝑆𝐷𝑑𝐵 decreases at a faster rate as the frequency increases, whereas during the period where there is only rain, as show in figure 7, the initial power spectral density level is similar at lower frequency but when the frequency increase, it doesn’t decrease as fast
+The rain has the highest impact when looking at both Oregon Offshore and Oregon Shelf sites. The power spectral density level starts from bout 80, as shown in figure 6 and the 𝑃𝑆𝐷𝑑𝐵 decreases at a faster rate as the frequency increases. Whereas when there is only rain, as show in figure 7, the initial power spectral density level is similar at lower frequency but when the frequency increase, it doesn’t decrease as fast.
 
 
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
 
+The instruments at Oregon Shelf is closer to the shore and shallower compare to Oregon Offshore, thus the spectral levels in Oregon Shelf is higher for being closer close to the surface and having less attenuation loss. Since they are at different depths and locations, the distinct ambient noises can be identified.
 
 ### Part 2 solutions ) Airgun, Marine Mammals, Earthquake Noise
 
