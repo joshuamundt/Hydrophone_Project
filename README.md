@@ -31,7 +31,7 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 
 ### Introduction
 
-### Part 1 solution ) Wind and Rain Noise
+### Part 1 solutions ) Wind and Rain Noise
 
 1. In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency.
 
@@ -66,6 +66,30 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 ![](proj4image/RW_OF.png)
       
       Figure 8:𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Offshore in Feb 10, 2019
+      
+2. Compare the spectral levels and answer these questions: 
+
+a) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
+
+b) Which one has the highest impact? Rain or wind? 
+
+c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
+
+### Part 2 solutions ) Airgun, Marine Mammals, Earthquake Noise
+
+1.	Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram
+
+2.	Find a short time period that there is an airgun noise in recorded data and plot its spectrogram
+![](proj4image/AH.png)
+
+      Figure 10:
+
+3.	Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
+
+
+4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve (refer to the Ocean Noise slides)?
+
+
 
 ![](proj4image/AH.png)
 
