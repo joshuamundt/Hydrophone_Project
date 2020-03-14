@@ -94,6 +94,10 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 ![](proj4image/EH.png)
 
       Figure 11: Spectrogram of Earthquake at Axial Seamount in Aug 16, 2019
+      
+![](proj4image/WC.png)
+
+      Figure 12: Wenz Curve [1]
 
 
 4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve (refer to the Ocean Noise slides)?
