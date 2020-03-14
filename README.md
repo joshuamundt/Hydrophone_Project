@@ -81,19 +81,19 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 
 ![](proj4image/MH.png)
 
-      Figure 9:
+      Figure 9: Spectrogram of Marine mammal at Oregon Slope Base in Oct 06, 2017
 
 2.	A short time period that there is an airgun noise in recorded data and plot its spectrogram
 
 ![](proj4image/AH.png)
 
-      Figure 10:
+      Figure 10: Spectrogram of Airgun at Axial Base Seafloor in Aug 01, 2019
 
 3.	A short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
 
 ![](proj4image/EH.png)
 
-      Figure 11:
+      Figure 11: Spectrogram of Earthquake at Axial Seamount in Aug 16, 2019
 
 
 4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve (refer to the Ocean Noise slides)?
