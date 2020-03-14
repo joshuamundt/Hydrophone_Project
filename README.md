@@ -77,21 +77,27 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 
 ### Part 2 solutions ) Airgun, Marine Mammals, Earthquake Noise
 
-1.	Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram
+1.	A short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram
 
-2.	Find a short time period that there is an airgun noise in recorded data and plot its spectrogram
+![](proj4image/MH.png)
+
+      Figure 9:
+
+2.	A short time period that there is an airgun noise in recorded data and plot its spectrogram
+
 ![](proj4image/AH.png)
 
       Figure 10:
 
-3.	Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
+3.	A short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
+
+![](proj4image/EH.png)
+
+      Figure 11:
 
 
 4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve (refer to the Ocean Noise slides)?
 
-
-
-![](proj4image/AH.png)
 
 ### Conclusion
 
