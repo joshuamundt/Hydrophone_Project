@@ -3,6 +3,10 @@
 ### Project 4
 
 
+## Introduction
+This project asks students to obtain raw data from OOI broadband hydrophone website for Oregon Shelf and Oregon Offshore. Then, plot power spectral density in (dB) with respect to frequency for the following four different cases: when it doesn’t ran and it is not windy, when it does not rain and it is windy, when it rains and it is not windy, and when it rains and it is windy. Afterwards, make analysis on how wind and rain affect the spectral level. The next objective is to plot spectrogram for airgun, marine mammals, and earthquake noise from the same website. Then compare those three signal with Wenz Curve, and draw a conclusion on whether they are consistent with the bandwidth on the Wenz Curve. 
+
+
 ## Project Statement 
 
 ### Part 1) Wind and Rain Noise
@@ -28,8 +32,6 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 3.	Find a short time period that there is an earthquake or a volcano eruption in recorded data and plot its spectrogram.
 
 4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve (refer to the Ocean Noise slides)?
-
-### Introduction
 
 ### Part 1 solutions ) Wind and Rain Noise
 
