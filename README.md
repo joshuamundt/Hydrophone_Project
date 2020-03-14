@@ -1,15 +1,15 @@
-Joshua Mundt
+## Joshua Mundt
 
-03/14/2020
+## 03/14/2020
 
-Project 4
+## Project 4
 
 
-Problem Statement 
+# Problem Statement 
 
-Part 1) Wind and Rain Noise
+## Part 1) Wind and Rain Noise
 
-Part 2) Airgun, Marine Mammals, Earthquake Noise
+## Part 2) Airgun, Marine Mammals, Earthquake Noise
 
 1.	Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram
 
@@ -19,12 +19,12 @@ Part 2) Airgun, Marine Mammals, Earthquake Noise
 
 4.	Compare the bandwidth of these three signals. Are they consistent with what is shown in the Wenz curve (refer to the Ocean Noise slides)?
 
-Introduction
+### Introduction
 
 
-Conclusion
+### Conclusion
 
-References
+### References
 
 [1]
 
