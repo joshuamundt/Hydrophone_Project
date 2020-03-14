@@ -31,6 +31,10 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 
 ### Introduction
 
+### Part 1 solution ) Wind and Rain Noise
+
+1. In each site and for each category that you identified in step 3, plot 𝑃𝑆𝐷𝑑𝐵 vs frequency.
+
 ![](proj4image/NRNW_OS.png)
 
       Figure 1: 𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Shelf in July 06, 2019
