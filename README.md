@@ -32,6 +32,7 @@ c) What are the main reasons for observing different spectral levels in Oregon s
 ### Introduction
 
 ![](proj4image/NRNW_OS.png)
+
 Figure 1: 𝑃𝑆𝐷𝑑𝐵 vs frequency at Oregon Shelf in July 06, 2019
       
 ![](proj4image/WNR_OS.png)
