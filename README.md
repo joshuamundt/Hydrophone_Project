@@ -120,8 +120,7 @@ Figure 10 shows the spectrogram of airgun at Axial Base Seafloor, and the freque
 
 
 #### Eathquake
-
-
+According to the Wenz Curve, figure  12, the earthequake frequency can range from 0 to 100 Hz. Similarly, figure 11 depicts the spectrogram of earthquake and the bandwidth is between 0 and 85 Hz. Therefore, it is certain that the signal comes from earthquakes because it has higher frequency than the ambient frequency and doesn't exceed 100 Hz.
 
 
 ## References
