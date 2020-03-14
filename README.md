@@ -5,11 +5,11 @@
 ## Project 4
 
 
-# Problem Statement 
+## Problem Statement 
 
-## Part 1) Wind and Rain Noise
+### Part 1) Wind and Rain Noise
 
-## Part 2) Airgun, Marine Mammals, Earthquake Noise
+### Part 2) Airgun, Marine Mammals, Earthquake Noise
 
 1.	Find a short time period that there is a marine mammal vocalization in recorded data and plot its spectrogram
 
