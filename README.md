@@ -115,6 +115,7 @@ The instruments at Oregon Shelf is closer to the shore and shallower compare to 
 In figure 9, a marine mammal vocalization frequency is found in a small-time window, and the bandwidth range from 800Hz to 5000Hz. One can claim that it comes from baleen whales because according to Geoxpro, the hearing bandwidth for baleen whales is believed to range from 5 Hz to above 20 kHz [2]. It is consistent with the bandwidth of biologics in the Wenz Curve shown in figure 12.
 
 #### Airgun
+Figure 10 shows the spectrogram of airgun at Axial Base Seafloor, and the frequency ranges from 0 to about 3,000 Hz and most of the energy is at lower frequency not to interfere with marine mammals' communication and navigation. A source claims that an airgun bandwidth can range from 200 to 22,000 Hz [3], therefore the signal found can be from a seismic airgun. Also, it is consistent with the bandwidth of ships and industrial activity on the Wenz Curve.
 
 
 
@@ -129,4 +130,5 @@ In figure 9, a marine mammal vocalization frequency is found in a small-time win
 
 [2]https://www.geoexpro.com/articles/2010/06/marine-seismic-sources-part-v-the-hearing-of-marine-mammals
 
+[3]http://filesrodadas.anp.gov.br/round9/arquivos_r9/guias_R9/sismica_R9/Bibliografia/Goold%20and%20Fish%201998%20-%20broadband%20spectra.pdf
 
